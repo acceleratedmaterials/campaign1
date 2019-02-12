@@ -1,0 +1,78 @@
+ÿNO.,Compounds,,,,Phase,,,Bandgap from Tauc Plot (eV),
+Sample #,Target Compound,Synthesized Compound,Materials Category,Successfully made into films? (Y/N),Dimensionality,Space Group,Other phases observed ,Direct,Indirect
+,,,,,,,,,
+1,FAPbI3,FAPbI3,Pb compounds,Y,3D,Pm-3m,,1.52,1.48
+2,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 9:1,Pb compounds,Y,3D,Pm-3m,,1.57,1.53
+3,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 8:2,Pb compounds,Y,3D,Pm-3m,,1.61,1.52
+4,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 7:3,Pb compounds,Y,3D,Pm-3m,,1.68,1.55
+5,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 6:4,Pb compounds,Y,3D,Pm-3m,,1.75,1.69
+6,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 5:5,Pb compounds,Y,3D,Pm-3m,,1.85,1.79
+7,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 4:6,Pb compounds,Y,3D,Pm-3m,,1.93,1.87
+8,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 3:7,Pb compounds,Y,3D,Pm-3m,,2.03,1.97
+9,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 2:8,Pb compounds,Y,3D,Pm-3m,,2.09,2.04
+10,(MAFA)Pb(IBr)3,FAPbI3:MAPbBr3 = 1:9,Pb compounds,Y,3D,Pm-3m,,2.21,2.15
+11,MAPbBr3,MAPbBr3,Pb compounds,Y,3D,Pm-3m,,2.29,2.23
+12,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 9:1",Pb compounds,Y,3D,Pm-3m,PbI2,1.59,1.52
+13,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 5:1",Pb compounds,Y,3D,Pm-3m,PbI2,1.62,1.55
+14,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 3:1",Pb compounds,Y,3D,Pm-3m,PbI2,1.68,1.63
+15,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 2:1",Pb compounds,Y,3D,Pm-3m,PbI2,1.74,1.67
+16,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 1:1",Pb compounds,Y,3D,Pm-3m,PbI2,1.88,1.76
+17,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 1:2",Pb compounds,Y,3D,Pm-3m,PbI2,2.01,1.87
+18,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 1:3",Pb compounds,Y,3D,Pm-3m,PbI2,2.05,1.92
+19,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 1:5",Pb compounds,Y,3D,Pm-3m,PbI2,2.13,1.96
+20,(CsRbMAFA)Pb(IBr)3,"%5CsI, 5%RbI, FAPbI3:MAPbBr3 = 1:9",Pb compounds,Y,3D,Pm-3m,PbI2,2.18,2.04
+21,FAPbBr3,FAPbBr3,Pb compounds,Y,3D,Pm-3m,,2.25,2.16
+22,MASnI3,MASnI3,Sn compounds,Y,3D,I4/mcm,SnI4,1.3,1.15
+23,MASnCaI3,"1%CaI, MASnI3",Sn compounds,Y,3D,I4/mcm,SnI4,1.3,1.15
+24,MASnCaI3,"5%CaI, MASnI3",Sn compounds,Y,3D,I4/mcm,SnI4,1.33,1.15
+25,MASnCaI3,"10%CaI, MASnI3",Sn compounds,Y,3D,I4/mcm,SnI4,1.35,1.14
+26,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 9:1,Sn compounds,Y,3D,Pm-3m,,1.28,1.1
+27,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 8:2,Sn compounds,Y,3D,Pm-3m,,1.34,1.23
+28,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 7:3,Sn compounds,Y,3D,Pm-3m,,1.38,1.29
+29,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 6:4,Sn compounds,Y,3D,Pm-3m,,1.48,1.33
+30,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 5:5,Sn compounds,Y,3D,Pm-3m,,1.57,1.48
+31,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 4:6,Sn compounds,Y,3D,Pm-3m,,1.65,1.54
+32,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 3:7,Sn compounds,Y,3D,Pm-3m,,1.83,1.65
+33,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 2:8,Sn compounds,Y,3D,Pm-3m,,1.84,1.64
+34,MA(SnPb)(IBr)3,MASnI3:MAPbBr3 = 1:9,Sn compounds,Y,3D,Pm-3m,,2.12,1.73
+35,Cs3Bi2I9,Cs3Bi2I9,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.3,2.05
+36,Cs3Sb2I9,Cs3Sb2I9,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.48,2.42
+37,Rb3Bi2I9,Rb3Bi2I9,Bi/Sb ternary compounds,Y,2D,Pc,,2.28,2.09
+38,Rb3Sb2I9,Rb3Sb2I9,Bi/Sb ternary compounds,Y,2D,P2/n,,2.18,1.98
+39,Cs3Bi2Br9,Cs3Bi2Br9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.73,2.61
+40,Cs3Sb2Br9,Cs3Sb2Br9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.58,2.44
+41,Rb3Bi2Br9,Rb3Bi2Br9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.71,2.65
+42,Rb3Sb2Br9,Rb3Sb2Br9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.74,2.85
+43,K3Bi2I9,K3Bi2I9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.3,2.03
+44,K3Sb2I9,K3Sb2I9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.28,2.08
+45,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=9:1,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.31,1.98
+46,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=8:2,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.31,1.97
+47,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=7:3,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.21,1.88
+48,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=6:4,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.21,1.87
+49,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=5:5,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.3,1.92
+50,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=4:6,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.31,1.94
+51,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=3:7,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.32,1.94
+52,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=2:8,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.46,1.99
+53,Cs3(BiSb)2I9,Cs3Bi2I9:Cs3Sb2I9=1:9,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.01,1.8
+54,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=9:1,Bi/Sb ternary compounds,Y,0D,P63/mmc,,2.27,2
+55,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=8:2,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.18,1.91
+56,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=7:3,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.18,1.95
+57,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=6:4,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.19,1.92
+58,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=5:5,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.23,1.97
+59,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=4:6,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.27,2.06
+60,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=3:7,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.39,2.11
+61,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=2:8,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.45,2.16
+62,Cs3(BiSb)2(IBr)9,Cs3Bi2I9:Cs3Sb2Br9=1:9,Bi/Sb ternary compounds,Y,2D,P-3m1,,2.48,2.17
+63,(MA)2CuBr2Cl2,(MA)CuBr2Cl2,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D,Pnma,,2.46,1.93
+64,(MA)CuCl4,(MA)CuCl4,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D,Pnma,,2.92,2.33
+65,Cs2AgBiBr6,Cs2AgBiBr6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,3D,Fm-3m,Cs3Bi2Br9,2.32,2.1
+66,Cs2AgSbBr6,Cs2AgSbBr6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,3D (mix phases),Fm-3m,"Cs3Sb2Br9, Cs2SbBr6ÿ",2.27,1.89
+67,RbAgBiI,Rb2AgBiI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Rb3Bi2I9,2.29,1.92
+68,CsNaBiI,Cs2NaBiI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,0D (mix phases),P63/mmc,Cs3Bi2I9,2.31,2.03
+69,CsNaSbI,Cs2NaSbI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Cs3Sb2I9,2.33,1.97
+70,RbNaSbI,Rb2NaSbI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Rb3Sb2I9,2.32,1.94
+71,RbNaSbBr,Rb2NaSbBr6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Rb3Sb2Br9,2.09,1.73
+72,CsCuBiI,Cs2CuBiI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,0D (mix phases),P63/mmc,Cs3Bi2I9,2.11,1.81
+73,CsCuSbI,Cs2CuSbI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,0D (mix phases),P63/mmc,Cs3Sb2I9,2.2,1.67
+74,RbCuSbI,Rb2CuSbI6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Rb3Sb2I9,2.18,2.02
+75,CsNaSbIBr,Cs2NaSb(IBr)6,Ag/Cu/Na-rich ternary and quaternary compounds,Y,2D (mix phases),P-3m1,Cs3Sb2Br9,2.6,2.42
